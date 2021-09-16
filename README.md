@@ -1,3 +1,5 @@
+### About Me
+
 - 👋 Hi, I’m Ainur Rohman
 - 👀 I’m interested in Artificial Intelligence (Computer Vision and Deep Learning)
 - 🌱 I’m currently learning Python, Data Science, Machine Learning, Deep Learning, and Computer Vision
@@ -22,8 +24,8 @@ https://blog.kakaocdn.net/dn/Ds9oY/btqOSyfX6cw/vCYbUu1N7t1zAsZyFlcSmK/img.png --
 ### Github Statistics
 <p align="left">
 <a href="https://github.com/ainurrohman01">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ainurrohman01&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ainurrohman01&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ainurrohman01&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ainurrohman01&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 

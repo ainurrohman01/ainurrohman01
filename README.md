@@ -7,7 +7,7 @@
 - ⚡ --->  **I love learning and Curious about the world**
 - 👨‍💻 My mission : **"Science, Technology, and Art for the World Better"**
 
-### My Interest & Hobbiees :
+### My Interest & Hobbies :
 
 | Programming | Reading Books & Paper (AI, Neuroscience, Self Improvement & Business) | Research & Development | Learning | <br>
 | Listening to Music | Photography (Minimalism) | Daydreaming and Imagination | Backpacking | Writing | <br>
@@ -37,17 +37,16 @@ https://blog.kakaocdn.net/dn/Ds9oY/btqOSyfX6cw/vCYbUu1N7t1zAsZyFlcSmK/img.png --
 ### Github Statistics
 <p align="left">
 <a href="https://github.com/ainurrohman01">
-  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ainurrohman01&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> <!--img height="150em"-->
-  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ainurrohman01&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ainurrohman01&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> <!--img height="150em"-->
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ainurrohman01&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
- 
-  <br>
-  <br>
+
+<br>
   
   <p align="center">
     <a href="https://github.com/ainurrohman01/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=ainurrohman01&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ainurrohman01&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
   </p>
 

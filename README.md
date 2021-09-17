@@ -3,8 +3,21 @@
 - 👋 Hi, I’m Ainur Rohman
 - 👀 I’m interested in Artificial Intelligence (Computer Vision and Deep Learning)
 - 🌱 I’m currently learning Python, Data Science, Machine Learning, Deep Learning, and Computer Vision
-- 💞️ I’m looking to collaborate on Machine Learning & Computer Vision Project
-- 📫 How to reach me: --> [Linkedin](https://www.linkedin.com/in/ainur-rohman-101/)
+- 👯 I’m looking to collaborate on Machine Learning & Computer Vision Project
+- ⚡ --->  **I love learning and Curious about the world**
+- 👨‍💻 My mission : **"Science, Technology, and Art for the World Better"**
+
+### My Interest & Hobbiees :
+
+| Programming | Reading Books & Paper (AI, Neuroscience, Self Improvement & Business) | Research & Development | Learning | <br>
+| Listening to Music | Photography (Minimalism) | Daydreaming and Imagination | Backpacking | Writing | <br>
+
+### How to reach me:
+[![Mail](https://img.shields.io/badge/-Email-black?style=for-the-badge&logo=gmail)](mailto:ainur.solver@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/ainur-rohman-101/)
+[![Kaggle](https://img.shields.io/badge/-Kaggle-black?style=for-the-badge&logo=Kaggle)](https://www.kaggle.com/ainurrohman)
+[![Blogger](https://img.shields.io/badge/-Blogger-black?style=for-the-badge&logo=blogger)](https://ai-engineer101.blogspot.com/)
+[![Medium](https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=Medium)](https://medium.com/@ainur.solver)
 
 ### Tech/Tools Stack
   <a href="https://www.python.org/"><img align="left" alt="Python" title="Python (Programming Language)" width="27px" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" /></a>
@@ -24,11 +37,26 @@ https://blog.kakaocdn.net/dn/Ds9oY/btqOSyfX6cw/vCYbUu1N7t1zAsZyFlcSmK/img.png --
 ### Github Statistics
 <p align="left">
 <a href="https://github.com/ainurrohman01">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ainurrohman01&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ainurrohman01&layout=compact&langs_count=8&theme=algolia"/>
+  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ainurrohman01&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> <!--img height="150em"-->
+  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ainurrohman01&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+ 
+  <br>
+  <br>
+  
+  <p align="center">
+    <a href="https://github.com/ainurrohman01/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=ainurrohman01&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+  </p>
 
+### Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=ainurrohman01">
+</a>
+<a href="https://github.com/ainurrohman01?tab=followers"><img src="https://img.shields.io/github/followers/ainurrohman01?label=Followers&style=social" alt="GitHub Badge"></a>
+  
 <!---
 ainurrohman01/ainurrohman01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

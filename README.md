@@ -1,15 +1,16 @@
 ### About Me
 
 - 👋 Hi, I’m Ainur Rohman
-- 👀 I’m interested in Artificial Intelligence (Computer Vision and Deep Learning)
-- 🌱 I’m currently learning Python, Data Science, Machine Learning, Deep Learning, and Computer Vision
-- 👯 I’m looking to collaborate on Machine Learning & Computer Vision Project
-- ⚡ --->  **I love learning and Curious about the world**
-- 👨‍💻 My mission : **"Science, Technology, and Art for the World Better"**
+- 👀 I’m interested in Product Innovation/Management, Human Behaviour Analysis, and Artificial Intelligence (computer vision)
+- 🌱 I’m currently learning product management class (concept & tools) at Binar Academy with several projects
+-    I was learning Python, Data Science, Machine Learning, Deep Learning, and Computer Vision
+- 👯 I’m looking to product management intern/associate product manager or collaborate on Machine Learning & Computer Vision Project
+- ⚡ --->  **I love learning, Curious about the world, and passionate about imagination, creativity, innovation, and problem solving**
+- 👨‍💻 My mission : **"Science, Technology, and Arts for the World Better"**
 
 ### My Interest & Hobbies :
 
-| Programming | Reading Books & Paper (AI, Neuroscience, Self Improvement & Business) | Research & Development | Learning | <br>
+| Product Innovation (develop ideas with human behaviour based)  | Reading Books & Paper (AI, Neuroscience, Self Improvement & Business) | Research & Development | Learning | <br>
 | Listening to Music | Photography (Minimalism) | Daydreaming and Imagination | Backpacking | Writing | <br>
 
 ### How to reach me:
